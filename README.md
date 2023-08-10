@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Javascript Frameworks**
 
-- 💬 Ask me about **Web Development,Problem Solving**
+- 💬 Ask me about **Web Development, Problem Solving**
 
 - 📫 How to reach me **bsharanya25@gmail.com**
 <h3 align="left">Connect with me:</h3>
