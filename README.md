@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsharanya-25&label=Profile%20views&color=0e75b6&style=flat" alt="bsharanya-25" /> </p>
 
-- 🌱 I’m currently learning **Java Frameworks**
+- 🌱 I’m currently learning **Java and Javascript Frameworks**
 
 - 💬 Ask me about **Web Development,Problem Solving**
 
