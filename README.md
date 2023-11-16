@@ -1,5 +1,4 @@
-![image](https://github.com/bsharanya-25/bsharanya-25/assets/72227221/093b11d6-6eb5-4e53-9b72-2de06596ffc3)
-
+![image](https://github.com/bsharanya-25/bsharanya-25/assets/72227221/a8613f2c-2b94-43cf-99c7-960f9823cc60)
 ![logo](https://github.com/bsharanya-25/bsharanya-25/blob/main/web-development-2.gif)
 <h1 align="center">Hi 👋, I'm B Sharanya</h1>
 <h3 align="center">A learner.</h3>
