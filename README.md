@@ -18,10 +18,10 @@
 <h3>Experience</h3>
 <h4> SDE Intern @DesiQnA<h4>
   <li>
-    <ul> Developed a responsive webpage for a specific section of Desi QnA and optimised the Code to increase the User Experience by 60%.
- <ul> Implemented user Verification & Authentication and detecting Bots and removing 95% of the Bots.
- <ul>	Integrated Google's ReCAPTCHA for enhanced website security.
- <ul>	Utilized the following tech stacks: HTML, CSS, JavaScript, Bootstrap, and MySQL.
+    <ul> Developed a responsive webpage for a specific section of Desi QnA and optimised the Code to increase the User Experience by 60%.</ul>
+ <ul> Implemented user Verification & Authentication and detecting Bots and removing 95% of the Bots.</ul>
+ <ul>	Integrated Google's ReCAPTCHA for enhanced website security.</ul>
+ <ul>	Utilized the following tech stacks: HTML, CSS, JavaScript, Bootstrap, and MySQL.</ul>
 
   </li>
 <h3 align="left">Languages and Tools:</h3>
