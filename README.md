@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsharanya-25&label=Profile%20views&color=0e75b6&style=flat" alt="bsharanya-25" /> </p>
 
-- 🌱 I’m currently learning **Java and Javascript Frameworks**
+- 🌱 I’m currently learning **Product management **
 
-- 💬 Ask me about **Web Development, Problem Solving**
+- 💬 Ask me about **Web Development, Problem Solving, Product management**
 
 - 📫 How to reach me **bsharanya25@gmail.com**
 <h3 align="left">Connect with me:</h3>
