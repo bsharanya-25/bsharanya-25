@@ -17,7 +17,8 @@
 </p>
 <h3>Experience</h3>
 
-<h4> SDE Intern @Campus Technology<h4>
+<h4> SDE Intern @Campus Technology<h4>       
+<p>May, 2024- June 2024</p>
   <ul>
  <li> Developed and maintained web applications using React.js, Material-UI, and Node.js, improving user satisfaction by 10%.</li>
  <li> Optimized backend with Node.js, MongoDB, and Firebase, increasing data processing speed by 20%.</li>
