@@ -16,9 +16,16 @@
 <a href="https://linkedin.com/in/b.sharanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b.sharanya" height="30" width="40" /></a>
 </p>
 <h3>Experience</h3>
-<h4> SDE Intern @DesiQnA<h4>
+
+<h4> SDE Intern @Campus Technology<h4>
   <ul>
-    <li> Developed a responsive webpage for a specific section of Desi QnA and optimised the Code to increase the User Experience by 60%.</li>
+ <li> Developed and maintained web applications using React.js, Material-UI, and Node.js, improving user satisfaction by 10%.</li>
+ <li> Optimized backend with Node.js, MongoDB, and Firebase, increasing data processing speed by 20%.</li>
+ <li>	Integrated Azure for cloud services, boosting scalability by 30%.</li>
+  </ul>
+<h4> SDE Intern @ITJOBXS<h4>
+  <ul>
+ <li> Developed a responsive webpage for a specific section of Desi QnA and optimised the Code to increase the User Experience by 60%.</li>
  <li> Implemented user Verification & Authentication and detecting Bots and removing 95% of the Bots.</li>
  <li>	Integrated Google's ReCAPTCHA for enhanced website security.</li>
  <li>	Utilized the following tech stacks: HTML, CSS, JavaScript, Bootstrap, and MySQL.</li>
